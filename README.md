@@ -1,4 +1,3 @@
-![]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://i.gifer.com/YT02.gif)| width=100)
 
 #  About Me:
 Hey i am sahil,welcome to my profile. Currently learning full stack or atleast trying 🦍
