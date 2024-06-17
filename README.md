@@ -1,7 +1,7 @@
 <img src="https://github.com/SahilWMI/SahilWMI/blob/main/YT02.gif"  />
 
 #  About Me:
-Hey i am sahil,welcome to my profile. Currently learning full stack or atleast trying 🦍
+Hey, this is sahil sharma and you're watching a trainwreck. 🦍
 
 
 # 💻 Tech Stack:
