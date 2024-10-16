@@ -18,11 +18,18 @@ Hey, this is sahil sharma and you're watching a trainwreck. 🦍
 <p align="left"> <a href="https://www.github.com/SahilWMI" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/sahilwmi/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sahilwmi/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/SahilWMI" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SahilWMI&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SahilWMI&theme=synthwave&hide_border=false)<br/>
+# My GitHub Stats:
+
+<a href="http://www.github.com/SahilWMI"><img src="https://github-readme-stats.vercel.app/api?username=SahilWMI&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SahilWMI's GitHub stats" /></a>
+
+<a href="http://www.github.com/SahilWMI"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SahiWMI&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilWMI&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 [![Sahil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SahilWMI&theme=synthwave-84)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 [![An image of @sahilwmi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sahilwmi)](https://holopin.io/@sahilwmi)
 
 ---
