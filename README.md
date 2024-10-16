@@ -20,15 +20,19 @@ Hey, this is sahil sharma and you're watching a trainwreck. 🦍
 
 # My GitHub Stats:
 
-<a href="http://www.github.com/SahilWMI"><img src="https://github-readme-stats.vercel.app/api?username=SahilWMI&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SahilWMI's GitHub stats" /></a>
+<a href="http://www.github.com/SahilWMI">
+  <img src="https://github-readme-stats.vercel.app/api?username=SahilWMI&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SahilWMI's GitHub stats" />
+</a>
+<br>
 
-<a href="http://www.github.com/SahilWMI"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SahiWMI&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/SahilWMI">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilWMI&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
 
-<br/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SahilWMI&bg_color=e2ffe0&color=000000&line=3fde52&point=233e3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilWMI&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-[![Sahil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SahilWMI&theme=synthwave-84)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/SahilWMI" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilWMI&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</a>
 
 [![An image of @sahilwmi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sahilwmi)](https://holopin.io/@sahilwmi)
 
