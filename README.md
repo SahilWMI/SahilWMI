@@ -10,7 +10,7 @@ Hey, this is sahil sharma and you're watching a trainwreck. 🦍
 ![](https://github-readme-stats.vercel.app/api?username=SahilWMI&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SahilWMI&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilWMI&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sahil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SahilWMI)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![An image of @sahilwmi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sahilwmi)](https://holopin.io/@sahilwmi)
 
 ---
