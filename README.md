@@ -29,7 +29,7 @@ Hey, this is sahil sharma and you're watching a trainwreck. 🦍
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilWMI&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SahilWMI&bg_color=e2ffe0&color=000000&line=3fde52&point=233e3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SahilWMI&theme=react-dark&border=none)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://github.com/SahilWMI" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilWMI&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
