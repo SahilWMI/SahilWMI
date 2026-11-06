@@ -1,7 +1,7 @@
 <img src="https://github.com/SahilWMI/SahilWMI/blob/main/YT02.gif"  />
 
 #  About Me:
-Hey, this is sahil sharma and you're watching a trainwreck. 🦍
+Hey, this is sahil sharma and you're watching a greatness in action. 🦍
 
 
 ### Skills
